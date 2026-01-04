@@ -1,4 +1,5 @@
 🤖 Smart Vision Detector (OpenCV + Voice Control)
+
 📌 Deskripsi
 
 Smart Vision Detector adalah aplikasi berbasis OpenCV dan AI yang mampu membedakan manusia dan benda secara real-time menggunakan kamera, serta dilengkapi kontrol suara (voice command) untuk menjalankan perintah seperti mulai deteksi, berhenti, masuk, dan keluar aplikasi.
